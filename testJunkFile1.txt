@@ -1,0 +1,16 @@
+This is a test file. 
+Included content is some random text.
+The purpose is for practicing and experimenting with Vim and Git.
+Here is the next line of text:
+Line number five of text.
+Line number six of text.
+Line number seven of text.
+
+
+
+
+
+
+Now I will try to save the file 
+with the following command:
+" :q! "
