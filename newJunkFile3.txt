@@ -1,0 +1,25 @@
+This file was created to demonstrate
+the methodology of branching.
+So this file has been created on
+the branch called 'modifyBranch'
+were I should be as I type this
+
+Now I am going to save and exit 
+this text file Here I go ..
+
+I am back again to mention that 
+this file only appears on the 
+branch 'modifyBranch' and not 
+the master branch.  Also ...
+I am going to modify the original
+name and add the extention .txt
+to the end of the file name.
+
+Now saving with ' wq '
+Opps that command just saved this
+added changes to the original 
+file name.  
+
+I need to do the ' w ' command 
+and specify a new file name with
+the extention added.  Here I go
